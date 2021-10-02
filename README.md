@@ -1,4 +1,6 @@
-###✨ Hi there 👋   These are Tanner's top languages ✨
+###
+✨ Hi there 👋   These are Tanner's top languages ✨
+
 ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=tannerpace&theme=ithub_dark) 
 
 
