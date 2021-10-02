@@ -10,4 +10,4 @@
 - 😄 Pronouns: ..he/him
 - ⚡ Fun fact: ..Im a self taught kiteboarder and builder of drones
 - Tanner's top languages
-![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=tannerpace&theme=synthwave) 
+![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=tannerpace&theme=ithub_dark) 
