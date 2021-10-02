@@ -13,4 +13,4 @@
 
 
 
-<a href=”https://www.instagram.com/tannerpaceb/">![alttext](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannerpace&theme=synthwave “Tanners’ Top Languages Card”)
