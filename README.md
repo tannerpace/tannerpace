@@ -10,3 +10,7 @@
 - 😄 Pronouns: ..he/him
 - ⚡ Fun fact: ..Im a self taught kiteboarder and builder of drones
 
+
+
+
+<a href=”https://www.instagram.com/tannerpaceb/">!["my insta"](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
