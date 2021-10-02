@@ -13,4 +13,4 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannerpace&theme=synthwave “Tanners’ Top Languages Card”)
+![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=tannerpace&theme=synthwave “Tanners’ Top Languages Card”)
