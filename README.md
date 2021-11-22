@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on a building a kite board app,and cloning airbnb landing page
+- 🔭 I’m currently working a building a kite boarding weather map app,and cloning the airbnb landing page
 - 🌱 I’m currently learning.... aws, react, hopefully grahql next 
 - 😄 Pronouns: ..he/him
 
