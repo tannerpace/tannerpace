@@ -7,8 +7,8 @@
 
 
 
-- 🔭 I’m currently greatful to be working as a fullstack web devloper.
-- 🌱 I’m currently learning.... how to center a div,  
+- 🔭 I’m currently interested in learning about how lambdas can save money.
+- 🌱 I’m currently learning.... about aws s3 select,  
 - 😄 Pronouns: ..he/him
 
 
