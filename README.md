@@ -7,7 +7,6 @@
 
 
 
-- 🔭 I’m currently interested in learning about how lambdas can save money.
 - 🌱 I’m currently learning.... about aws s3 select,  
 - 😄 Pronouns: ..he/him
 
