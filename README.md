@@ -7,8 +7,12 @@
 
 
 
-- 🌱 I’m currently learning.... about aws s3 select,  
+- 🌱 I’m currently learning.... about mysql server,  
+- table                                     FALSE
+- user                                      user
+- safe-updates                              FALSE
+- i-am-a-dummy                              FALSE 🥹
 - 😄 Pronouns: ..he/him
-- i-am-a-dummy                              FALSE
+-
 
 
