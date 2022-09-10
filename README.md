@@ -9,5 +9,6 @@
 
 - 🌱 I’m currently learning.... about aws s3 select,  
 - 😄 Pronouns: ..he/him
+- i-am-a-dummy                              FALSE
 
 
