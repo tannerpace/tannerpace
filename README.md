@@ -34,11 +34,6 @@
 - I am a problem solver and I love to find creative solutions to complex problems.
 - I am a team player and I love to collaborate with others to create amazing things.
 
-- 🤔 **I’m looking for beta testers**
-- 💬 **Ask me about Kitesurf.ninja, React,Typscript, Node.JS,Docker,AWS, etc...**
-- ⚡
-  I enjoy making software that may improve the lives of others.\*
-
 * ---
 
 #### Social links
@@ -106,3 +101,5 @@
 [2]: https://github.com/tannerpace -->
 
 https://www.linkedin.com/in/tannerbleakley
+
+- 💬 **Ask me about Kitesurf.ninja, React,Typscript, Node.JS,Docker,AWS, etc...**
