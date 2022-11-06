@@ -34,7 +34,7 @@
 - I am a problem solver and I love to find creative solutions to complex problems.
 - I am a team player and I love to collaborate with others to create amazing things.
 
-## 🛠️ My Skills :
+## 🛠️ My Tool Belt :
 
 ### Languages
 
@@ -49,23 +49,29 @@
 <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown" alt="Markdown" />&nbsp;
 <img src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=json" alt="JSON" />&nbsp;
 
-### Frontend :
+### Frameworks :
 
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React" />&nbsp;
-<img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" alt="Redux" />&nbsp;
+<img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react" alt="React Native" />&nbsp;
+<img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular" alt="Angular" />&nbsp;
+<img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js" />&nbsp;
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js" />&nbsp;
+<img src="https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=gatsby" alt="Gatsby" />&nbsp;
+<img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest" alt="Jest" />&nbsp;
+<img src="https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte" alt="Svelte" />&nbsp;
+<img src="https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress" alt="Cypress" />&nbsp;
+
+### Frontend :
+
 <img src="https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=material-ui" alt="Material UI" />&nbsp;
 <img src="https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap" alt="Bootstrap" />&nbsp;
 <img src="https://img.shields.io/badge/-JQuery-000000?style=flat&logo=jquery" alt="JQuery" />&nbsp;
-<img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" alt="HTML5" />&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3" alt="CSS3" />&nbsp;
-<img src="https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass" alt="Sass" />&nbsp;
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind-css" alt="Tailwind CSS" />&nbsp;
 <img src="https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack" alt="Webpack" />&nbsp;
 <img src="https://img.shields.io/badge/-Babel-000000?style=flat&logo=babel" alt="Babel" />&nbsp;
-<img src="https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=gatsby" alt="Gatsby" />&nbsp;
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js" />&nbsp;
 <img src="https://img.shields.io/badge/-React%20Router-000000?style=flat&logo=react-router" alt="React Router" />&nbsp;
 <img src="https://img.shields.io/badge/-React%20Bootstrap-000000?style=flat&logo=react-bootstrap" alt="React Bootstrap" />&nbsp;
-<img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react-native" alt="React Native" />&nbsp;
 
 ### Backend :
 
@@ -97,18 +103,6 @@
 <img src="https://img.shields.io/badge/-AdobeAfterEffects-000000?style=flat&logo=adobe-after-effects" alt="AdobeAfterEffects" />&nbsp;
 <img src="https://img.shields.io/badge/-AdobeLightroom-000000?style=flat&logo=adobe-lightroom" alt="AdobeLightroom" />&nbsp;
 <img src="https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender" alt="Blender" />&nbsp;
-
-### Frameworks :
-
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React" />&nbsp;
-<img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react" alt="React Native" />&nbsp;
-<img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular" alt="Angular" />&nbsp;
-<img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js" />&nbsp;
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js" />&nbsp;
-<img src="https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=gatsby" alt="Gatsby" />&nbsp;
-<img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest" alt="Jest" />&nbsp;
-<img src="https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte" alt="Svelte" />&nbsp;
-<img src="https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress" alt="Cypress" />&nbsp;
 
 #### Social links
 
