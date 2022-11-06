@@ -45,10 +45,6 @@
 <img src="https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass" alt="Sass" />&nbsp;
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python" />&nbsp;
 <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java" alt="Java" />&nbsp;
-<img src="https://img.shields.io/badge/-C-000000?style=flat&logo=c" alt="C" />&nbsp;
-<img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus" alt="C++" />&nbsp;
-<img src="https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp" alt="C#" />&nbsp;
-<img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" alt="PHP" />&nbsp;
 <img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql" alt="SQL" />&nbsp;
 <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown" alt="Markdown" />&nbsp;
 
