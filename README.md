@@ -58,7 +58,8 @@
 <img src="https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=gatsby" alt="Gatsby" />&nbsp;
 <img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest" alt="Jest" />&nbsp;
 
-<img src="https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium" alt="Selenium" />&nbsp;
+<!-- <img src="https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium" alt="Selenium" />&nbsp; -->
+
 <img src="https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress" alt="Cypress" />&nbsp;
 
 #### Social links
