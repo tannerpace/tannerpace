@@ -34,7 +34,36 @@
 - I am a problem solver and I love to find creative solutions to complex problems.
 - I am a team player and I love to collaborate with others to create amazing things.
 
-* ---
+## 🛠️ My Skills :
+
+### Languages :
+
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" />&nbsp;
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" alt="TypeScript" />&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" alt="HTML5" />&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3" alt="CSS3" />&nbsp;
+<img src="https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass" alt="Sass" />&nbsp;
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java" alt="Java" />&nbsp;
+<img src="https://img.shields.io/badge/-C-000000?style=flat&logo=c" alt="C" />&nbsp;
+<img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus" alt="C++" />&nbsp;
+<img src="https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp" alt="C#" />&nbsp;
+<img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" alt="PHP" />&nbsp;
+<img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql" alt="SQL" />&nbsp;
+<img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown" alt="Markdown" />&nbsp;
+
+### Frameworks :
+
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React" />&nbsp;
+<img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react" alt="React Native" />&nbsp;
+<img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular" alt="Angular" />&nbsp;
+<img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js" />&nbsp;
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js" />&nbsp;
+<img src="https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=gatsby" alt="Gatsby" />&nbsp;
+<img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest" alt="Jest" />&nbsp;
+
+<img src="https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium" alt="Selenium" />&nbsp;
+<img src="https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress" alt="Cypress" />&nbsp;
 
 #### Social links
 
@@ -44,6 +73,11 @@
 
 ## 🛠 &nbsp; Technologies I Have Used
 
+<img src="https://img.shields.io/badge/-ReactQuery-000000?style=flat&logo=reactquery" alt="ReactQuery" />&nbsp;
+<img src="https://img.shields.io/badge/-React%20Router-000000?style=flat&logo=reactrouter" alt="React Router" />&nbsp;
+<img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" alt="Redux" />&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" alt="Node.js" />&nbsp;
+<img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" alt="Docker" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
