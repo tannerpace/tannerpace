@@ -36,7 +36,7 @@
 
 ## 🛠️ My Skills :
 
-### Languages :
+### Languages
 
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" />&nbsp;
 <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" alt="TypeScript" />&nbsp;
@@ -52,17 +52,11 @@
 ### Frontend :
 
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React" />&nbsp;
-
 <img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" alt="Redux" />&nbsp;
-
 <img src="https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=material-ui" alt="Material UI" />&nbsp;
-
 <img src="https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap" alt="Bootstrap" />&nbsp;
-
 <img src="https://img.shields.io/badge/-JQuery-000000?style=flat&logo=jquery" alt="JQuery" />&nbsp;
-
 <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" alt="HTML5" />&nbsp;
-
 <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3" alt="CSS3" />&nbsp;
 <img src="https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass" alt="Sass" />&nbsp;
 <img src="https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack" alt="Webpack" />&nbsp;
