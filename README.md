@@ -14,7 +14,7 @@
 <h1 align="center">
 <!--   <img src="https://scontent-mia3-2.xx.fbcdn.net/v/t1.6435-1/98599521_10103543147615784_5627245428001996800_n.jpg?stp=c0.187.480.480a_dst-jpg_p480x480&_nc_cat=107&ccb=1-7&_nc_sid=7206a8&_nc_ohc=V41h5Cic2G0AX_RQGqg&_nc_ht=scontent-mia3-2.xx&oh=00_AfAXXJYeT3OOtDT_HjnJLuL8vICHmj47yRW_OpaRHtd15A&oe=638DDC46" title="Tanner Bleakley" alt="Tanner Bleakley" width="100" height="100"/>&nbsp; -->
   
-  WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
   
 </h1>
 <h3 align="center">FullStack 
