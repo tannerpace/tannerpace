@@ -57,6 +57,7 @@
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js" />&nbsp;
 <img src="https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=gatsby" alt="Gatsby" />&nbsp;
 <img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest" alt="Jest" />&nbsp;
+<img src="https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte" alt="Svelte" />&nbsp;
 
 <!-- <img src="https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium" alt="Selenium" />&nbsp; -->
 
