@@ -47,6 +47,57 @@
 <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java" alt="Java" />&nbsp;
 <img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql" alt="SQL" />&nbsp;
 <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown" alt="Markdown" />&nbsp;
+<img src="https://img.shields.io/badge/-JSON-000000?style=flat&logo=json" alt="JSON" />&nbsp;
+
+### Frontend :
+
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React" />&nbsp;
+
+### Backend :
+
+<img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" alt="Node.js" />&nbsp;
+
+### Databases :
+
+<img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB" />&nbsp;
+
+<img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" alt="MySQL" />&nbsp;
+
+### Cloud :
+
+<img src="https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws" alt="AWS" />&nbsp;
+
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" alt="GitHub" />&nbsp;
+
+<img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel" alt="Vercel" />&nbsp;
+
+### Tools :
+
+<img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" alt="Git" />&nbsp;
+
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" alt="GitHub" />&nbsp;
+
+<img src="https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code" alt="VSCode" />&nbsp;
+
+<img src="https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman" alt="Postman" />&nbsp;
+
+<img src="https://img.shields.io/badge/-Slack-000000?style=flat&logo=slack" alt="Slack" />&nbsp;
+
+<img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" alt="Figma" />&nbsp;
+
+<img src="https://img.shields.io/badge/-AdobeXD-000000?style=flat&logo=adobe-xd" alt="AdobeXD" />&nbsp;
+
+<img src="https://img.shields.io/badge/-AdobePhotoshop-000000?style=flat&logo=adobe-photoshop" alt="AdobePhotoshop" />&nbsp;
+
+<!-- <img src="https://img.shields.io/badge/-AdobeIllustrator-000000?style=flat&logo=adobe-illustrator" alt="AdobeIllustrator" />&nbsp; -->
+
+<img src="https://img.shields.io/badge/-AdobePremierePro-000000?style=flat&logo=adobe-premiere-pro" alt="AdobePremierePro" />&nbsp;
+
+<img src="https://img.shields.io/badge/-AdobeAfterEffects-000000?style=flat&logo=adobe-after-effects" alt="AdobeAfterEffects" />&nbsp;
+
+<img src="https://img.shields.io/badge/-AdobeLightroom-000000?style=flat&logo=adobe-lightroom" alt="AdobeLightroom" />&nbsp;
+
+<img src="https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender" alt="Blender" />&nbsp;
 
 ### Frameworks :
 
@@ -69,16 +120,12 @@
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/boyashaka83)
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tannerpace/)
 
-## 🛠 &nbsp; Technologies I Have Used
-
 <img src="https://img.shields.io/badge/-ReactQuery-000000?style=flat&logo=reactquery" alt="ReactQuery" />&nbsp;
 <img src="https://img.shields.io/badge/-React%20Router-000000?style=flat&logo=reactrouter" alt="React Router" />&nbsp;
 <img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" alt="Redux" />&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" alt="Node.js" />&nbsp;
 <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" alt="Docker" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
+
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
 <a href="https://github.com/AnshSinghSonkhia"><img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/github.png"/></a>&nbsp;
