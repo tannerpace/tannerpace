@@ -53,50 +53,55 @@
 
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React" />&nbsp;
 
+<img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" alt="Redux" />&nbsp;
+
+<img src="https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=material-ui" alt="Material UI" />&nbsp;
+
+<img src="https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap" alt="Bootstrap" />&nbsp;
+
+<img src="https://img.shields.io/badge/-JQuery-000000?style=flat&logo=jquery" alt="JQuery" />&nbsp;
+
+<img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" alt="HTML5" />&nbsp;
+
+<img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3" alt="CSS3" />&nbsp;
+<img src="https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass" alt="Sass" />&nbsp;
+<img src="https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack" alt="Webpack" />&nbsp;
+<img src="https://img.shields.io/badge/-Babel-000000?style=flat&logo=babel" alt="Babel" />&nbsp;
+<img src="https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=gatsby" alt="Gatsby" />&nbsp;
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js" />&nbsp;
+<img src="https://img.shields.io/badge/-React%20Router-000000?style=flat&logo=react-router" alt="React Router" />&nbsp;
+<img src="https://img.shields.io/badge/-React%20Bootstrap-000000?style=flat&logo=react-bootstrap" alt="React Bootstrap" />&nbsp;
+<img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react-native" alt="React Native" />&nbsp;
+
 ### Backend :
 
 <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" alt="Node.js" />&nbsp;
+<img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js" />&nbsp;
 
 ### Databases :
 
 <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB" />&nbsp;
-
 <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" alt="MySQL" />&nbsp;
 
 ### Cloud :
 
 <img src="https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws" alt="AWS" />&nbsp;
-
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" alt="GitHub" />&nbsp;
-
 <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel" alt="Vercel" />&nbsp;
 
 ### Tools :
 
 <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" alt="Git" />&nbsp;
-
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" alt="GitHub" />&nbsp;
-
 <img src="https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code" alt="VSCode" />&nbsp;
-
 <img src="https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman" alt="Postman" />&nbsp;
-
 <img src="https://img.shields.io/badge/-Slack-000000?style=flat&logo=slack" alt="Slack" />&nbsp;
-
 <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" alt="Figma" />&nbsp;
-
 <img src="https://img.shields.io/badge/-AdobeXD-000000?style=flat&logo=adobe-xd" alt="AdobeXD" />&nbsp;
-
 <img src="https://img.shields.io/badge/-AdobePhotoshop-000000?style=flat&logo=adobe-photoshop" alt="AdobePhotoshop" />&nbsp;
-
-<!-- <img src="https://img.shields.io/badge/-AdobeIllustrator-000000?style=flat&logo=adobe-illustrator" alt="AdobeIllustrator" />&nbsp; -->
-
 <img src="https://img.shields.io/badge/-AdobePremierePro-000000?style=flat&logo=adobe-premiere-pro" alt="AdobePremierePro" />&nbsp;
-
 <img src="https://img.shields.io/badge/-AdobeAfterEffects-000000?style=flat&logo=adobe-after-effects" alt="AdobeAfterEffects" />&nbsp;
-
 <img src="https://img.shields.io/badge/-AdobeLightroom-000000?style=flat&logo=adobe-lightroom" alt="AdobeLightroom" />&nbsp;
-
 <img src="https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender" alt="Blender" />&nbsp;
 
 ### Frameworks :
@@ -109,9 +114,6 @@
 <img src="https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=gatsby" alt="Gatsby" />&nbsp;
 <img src="https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest" alt="Jest" />&nbsp;
 <img src="https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte" alt="Svelte" />&nbsp;
-
-<!-- <img src="https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium" alt="Selenium" />&nbsp; -->
-
 <img src="https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress" alt="Cypress" />&nbsp;
 
 #### Social links
