@@ -11,11 +11,8 @@
 <h1 align="center">
 <!--   <img src="https://scontent-mia3-2.xx.fbcdn.net/v/t1.6435-1/98599521_10103543147615784_5627245428001996800_n.jpg?stp=c0.187.480.480a_dst-jpg_p480x480&_nc_cat=107&ccb=1-7&_nc_sid=7206a8&_nc_ohc=V41h5Cic2G0AX_RQGqg&_nc_ht=scontent-mia3-2.xx&oh=00_AfAXXJYeT3OOtDT_HjnJLuL8vICHmj47yRW_OpaRHtd15A&oe=638DDC46" title="Tanner Bleakley" alt="Tanner Bleakley" width="100" height="100"/>&nbsp; -->
 
-
 </h1>
-<h3 align="center">FullStack 
-JavaScript Developer, Certified Cloud Practitioner</h3>
-
+<h3 align="center">My name is Tanner Bleakley, I am a JavaScript Developer, Certified Cloud Practitioner, and a recent graduate of JRS Coding School's FullStack Javascript Development Program.</h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=contact@tannerpace@gmail.com&tf=cm">
@@ -31,10 +28,13 @@ JavaScript Developer, Certified Cloud Practitioner</h3>
 
 ## 🚀 About Me :
 
-- my name is Tanner Bleakley, I am a JavaScript Developer, Certified Cloud Practitioner, and a recent graduate of JRS Coding School's FullStack Javascript Development Program.
+- I believe in the power of technology to change the world for the better.
+- I am a Full Stack Developer with a passion for learning and creating.
+- I am a lifelong learner and I am always looking for new opportunities to learn and grow.
+- I am a problem solver and I love to find creative solutions to complex problems.
+- I am a team player and I love to collaborate with others to create amazing things.
 
 - 🤔 **I’m looking for beta testers**
-
 - 💬 **Ask me about Kitesurf.ninja, React,Typscript, Node.JS,Docker,AWS, etc...**
 - ⚡
   I enjoy making software that may improve the lives of others.\*
