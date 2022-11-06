@@ -77,6 +77,7 @@
 
 <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" alt="Node.js" />&nbsp;
 <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js" />&nbsp;
+<img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" alt="Docker" />&nbsp;
 
 ### Databases :
 
@@ -109,24 +110,6 @@
 [![Website](https://img.shields.io/badge/Website-4FC08D?style=for-the-badge&logo=githubpages&logoColor=white)](https://tannerb.dev/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/boyashaka83)
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tannerpace/)
-
-<img src="https://img.shields.io/badge/-ReactQuery-000000?style=flat&logo=reactquery" alt="ReactQuery" />&nbsp;
-<img src="https://img.shields.io/badge/-React%20Router-000000?style=flat&logo=reactrouter" alt="React Router" />&nbsp;
-<img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" alt="Redux" />&nbsp;
-<img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" alt="Node.js" />&nbsp;
-<img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" alt="Docker" />&nbsp;
-
-<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-<a href="https://github.com/AnshSinghSonkhia"><img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/github.png"/></a>&nbsp;
-<a href="https://g.dev/AnshSinghSonkhia"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio"  alt="AndroidStudio" width="60" height="60"/></a>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle"  alt="Gradle" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode"  alt="VSCode" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intelliJ"  alt="intelliJ" width="60" height="60"/>&nbsp;
-<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-<img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/tailwind%20(1).png" title="TailwindCSS" alt="TailwindCSS" width="70" height="40"/>&nbsp;
 
 ## &#x1f4c8; GitHub Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
