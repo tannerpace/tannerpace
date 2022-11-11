@@ -18,7 +18,7 @@
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=contact@tannerpace@gmail.com&tf=cm">
   <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/gmail.png"/>&nbsp;
 </a>
-  <a href="https://www.linkedin.com/in/tannerpace">
+  <a href="https://www.linkedin.com/in/tannerbleakley">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp;
 </a>
 
@@ -109,7 +109,7 @@
 
 [![Website](https://img.shields.io/badge/Website-4FC08D?style=for-the-badge&logo=githubpages&logoColor=white)](https://tannerb.dev/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/boyashaka83)
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tannerpace/)
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tannerbleakley/)
 
 ## &#x1f4c8; GitHub Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
