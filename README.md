@@ -28,7 +28,7 @@
 
 ## 🚀 About Me :
 
-- I believe in the power of technology to change the world for the better.
+- I believe The whole is greater than the sum of the parts..
 - I am a Full Stack Developer with a passion for learning and creating.
 - I am a lifelong learner and I am always looking for new opportunities to learn and grow.
 - I am a problem solver and I love to find creative solutions to complex problems.
