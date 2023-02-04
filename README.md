@@ -153,11 +153,170 @@ WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/Ma
 
 https://www.linkedin.com/in/tannerbleakley
 
-- 💬 **Ask me about Kitesurf.ninja, React,Typscript, Node.JS,Docker,AWS, etc...**
+- 💬 Here is some information I find helpful
+  
+<div align="left">
 
-  # Helpful Commands
+### 1. `node -v > .nvmrc`
 
-## Git
+> will create a .nvmrc file with the current version of node installed on your machine.
+> ###2 `nvm use`
+> will use the version of node specified in the .nvmrc file.
+> ###3 `nvm install 16`
+> will install the version of node specified ie 16
+> ###4 `nvm alias default 16`
+> will set the default version of node to 16
+
+## mysql
+
+> You can update root password anytime from MySQL shell.
+
+You can update root password anytime from MySQL shell.
+$ mysql -uroot -p
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewStrongP@ssw0d!';
+mysql> FLUSH PRIVILEGES;
+mysql> exit
+
+> You can login to MySQL shell command line arguments.
+> mysql -u root -p
+
+```
+> VIEW DATABASES;
+```
+
+```
+> SHOW DATABASES;
+```
+
+```
+> CREATE DATABASE <database_name>;
+```
+
+```
+> USE <database_name>;
+```
+
+# NODE VERSION MANAGER
+
+#1 `node -v > .nvmrc`
+ will create a .nvmrc file with the current version of node installed on your machine.
+
+#2 `nvm use`
+ will use the version of node specified in the .nvmrc file.
+
+#3 `nvm install`
+ will install the version of node specified in the .nvmrc file.
+
+#4 `nvm install --lts`
+ will install the latest version of node.
+
+#5 `nvm install --lts --reinstall-packages-from=system`
+ will install the latest version of node and reinstall all the packages from the system.
+
+
+
+###General
+lsof -i :5001.  -kill proccess on a port
+sudo kill -9 1234 -kill proccess by id
+sudo killall node -kill all node proccesses
+rm -rf .git -remove git from a project
+
+
+### -oh-my-zsh setup
+```
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+```
+sudo apt-get install fonts-powerline
+```
+```
+sudo apt-get install zsh-syntax-highlighting
+```
+```
+sudo apt-get install zsh-autosuggestions
+```
+```
+sudo apt-get install zsh-history-substring-search
+```
+```
+sudo apt-get install zsh-completions
+```
+sudo apt-get install zsh-lovers
+```
+```
+sudo apt-get install zsh-vi-mode
+```
+```
+sudo apt-get install zsh-theme-powerlevel10k
+```
+
+
+
+
+###Credintial Helper- really handy for ec2 instances
+```
+  git status
+ ```
+```
+  gh auth login
+  ```
+  ```
+  sudo snap install gh
+  ```
+  ```
+  gh auth login
+  ```
+```
+  gh auth login
+  ```
+  ```
+  git config --global user.email
+  ```
+  ```
+  git config --global myemail@gmail.com
+  ```
+  ```
+  git config --global user.email myemail@gmail.com
+  ```
+
+### pm2 -- when you start your server with pm2 it will run in the background
+pm2 start server.js
+pm2 stop server.js
+pm2 restart server.js --watch
+pm2 logs
+pm2 monit
+pm2 delete server.js
+pm2 list
+pm2 startup
+pm2 save
+
+
+### aws
+sudo apt-get install awscli
+aws configure
+aws ec2 describe-instances
+aws ec2 describe-instances --query 'Reservations[*].Instances[*].[InstanceId,PublicIpAddress,State.Name,Tags[?Key==`Name`].Value[]]' --output text
+
+
+### aws SSl Load balancer Setup
+Create an EC2 instance.
+Add git to the EC2 instance.
+Clone the backend repo.
+Install node and npm.
+Install pm2.
+Set up EC2 to respond to HTTP on "/".
+Create a target group that will connect to the EC2.
+Define a security group that accepts traffic from the ALB security group.
+Place the EC2 server in a security group that only allows traffic from the load balancer security group.
+Create an application load balancer.
+Connect the load balancer to the target group.
+Set up health checks on HTTP port 80.
+Register a domain with Route 53 and use a subdomain (e.g. api.myawsomedomainname.com) for your backend.
+Add an AWS SSL certificate to your application load balancer.
+Confirm that the target group is the one with the EC2 and set up any necessary health checks.
+Point the domain to the ALB.
+
+
 
 ### 1.
 
@@ -534,190 +693,6 @@ git reset --hard HEAD~1
 ```
 
 > discards all history and goes back to the previous commit.
-
-### 43.
-
-```
-git reflog
-```
-
-> shows a log of all commits ever made to the current branch.
-
-### 44.
-
-```
-
-git gc
-```
-
-> cleans up unnecessary files and optimize the local repository.
-
-### 45.
-
-```
-
-git fsck
-```
-
-> checks the connectivity and validity of the objects in the database.
-
-### 46.
-
-```
-
-git fsck --full
-```
-
-> checks the connectivity and validity of the objects in the database and also verifies that all objects are reachable from at least one ref.
-
-### 47.
-
-```
-
-git fsck --unreachable
-```
-
-> checks the connectivity and validity of the objects in the database and also verifies that all objects are reachable from at least one ref.
-
-## NODE VERSION MANAGER
-
-###1 `node -v > .nvmrc`
-
-> will create a .nvmrc file with the current version of node installed on your machine.
-> ###2 `nvm use`
-> will use the version of node specified in the .nvmrc file.
-> ###3 `nvm install 16`
-> will install the version of node specified ie 16
-> ###4 `nvm alias default 16`
-> will set the default version of node to 16
-
-## mysql
-
-> You can update root password anytime from MySQL shell.
-
-You can update root password anytime from MySQL shell.
-$ mysql -uroot -p
-mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewStrongP@ssw0d!';
-mysql> FLUSH PRIVILEGES;
-mysql> exit
-
-> You can login to MySQL shell command line arguments.
-> mysql -u root -p
-
-```
-> VIEW DATABASES;
-```
-
-```
-> SHOW DATABASES;
-```
-
-```
-> CREATE DATABASE <database_name>;
-```
-
-```
-> USE <database_name>;
-```
-
-```
-> SHOW TABLES;
-```
-
-```
-> CREATE TABLE <table_name> ( <column_name> <data_type> );
-```
-
-```
-
-
-# NODE VERSION MANAGER
-
-#1 `node -v > .nvmrc`
- will create a .nvmrc file with the current version of node installed on your machine.
-
-#2 `nvm use`
- will use the version of node specified in the .nvmrc file.
-
-#3 `nvm install`
- will install the version of node specified in the .nvmrc file.
-
-#4 `nvm install --lts`
- will install the latest version of node.
-
-#5 `nvm install --lts --reinstall-packages-from=system`
- will install the latest version of node and reinstall all the packages from the system.
-
-
-
-###General
-lsof -i :5001.  -kill proccess on a port
-sudo kill -9 1234 -kill proccess by id
-sudo killall node -kill all node proccesses
-rm -rf .git -remove git from a project
-
-
-### -oh-my-zsh setup
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-sudo apt-get install fonts-powerline
-sudo apt-get install zsh-syntax-highlighting
-sudo apt-get install zsh-autosuggestions
-sudo apt-get install zsh-history-substring-search
-sudo apt-get install zsh-completions
-sudo apt-get install zsh-lovers
-sudo apt-get install zsh-vi-mode
-sudo apt-get install zsh-theme-powerlevel10k
-
-
-
-
-###Credintial Helper- really handy for ec2 instances
-  git status
-  gh auth login
-  sudo snap install gh
-  gh auth login
-  git pull
-  gh auth login
-  git config --global user.email
-  git config --global myemail@gmail.com
-  git config --global user.email myemail@gmail.com
-
-### pm2 -- when you start your server with pm2 it will run in the background
-pm2 start server.js
-pm2 stop server.js
-pm2 restart server.js --watch
-pm2 logs
-pm2 monit
-pm2 delete server.js
-pm2 list
-pm2 startup
-pm2 save
-
-
-### aws
-sudo apt-get install awscli
-aws configure
-aws ec2 describe-instances
-aws ec2 describe-instances --query 'Reservations[*].Instances[*].[InstanceId,PublicIpAddress,State.Name,Tags[?Key==`Name`].Value[]]' --output text
-
-
-### aws SSl Load balancer Setup
-Create an EC2 instance.
-Add git to the EC2 instance.
-Clone the backend repo.
-Install node and npm.
-Install pm2.
-Set up EC2 to respond to HTTP on "/".
-Create a target group that will connect to the EC2.
-Define a security group that accepts traffic from the ALB security group.
-Place the EC2 server in a security group that only allows traffic from the load balancer security group.
-Create an application load balancer.
-Connect the load balancer to the target group.
-Set up health checks on HTTP port 80.
-Register a domain with Route 53 and use a subdomain (e.g. api.myawsomedomainname.com) for your backend.
-Add an AWS SSL certificate to your application load balancer.
-Confirm that the target group is the one with the EC2 and set up any necessary health checks.
-Point the domain to the ALB.
 
 
 
