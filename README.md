@@ -3,8 +3,8 @@
 <h1 align="center">
   ✨ Hi there 👋  ✨
 
-  WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  
+WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 </h1>
 
 <h1 align="center">
@@ -154,231 +154,524 @@
 https://www.linkedin.com/in/tannerbleakley
 
 - 💬 **Ask me about Kitesurf.ninja, React,Typscript, Node.JS,Docker,AWS, etc...**
-  
-  
-  
-  
-  # Helpful Commands 
+
+  # Helpful Commands
 
 ## Git
 
-###  
+### 1.
 
 ```
-`git add` .
+git init
 ```
+
+> is used to start a new repository.
 
 ### 2.
-```
-`git commit -m "message"  .
-``` 
 
-### 3. 
 ```
-git push
+git clone <repo>
 ```
-### 4. 
+
+> is used to obtain a repository from an existing URL.
+
+### 3.
+
 ```
-git pull origin master
+
+git add <file>
 ```
+
+> adds a file to the staging area.
+
+### 4.
+
+```
+
+git add .
+```
+
+> adds one or more to the staging area.
 
 ### 5.
+
 ```
+
+git commit -m "Commit message"
+```
+
+> records or snapshots the file permanently in the version history.
+
+### 6.
+
+```
+
 git status
 ```
 
-### 6. 
+> lists all new or modified files to be committed.
+
+### 7.
+
 ```
+
 git log
 ```
 
-### 7. 
-```
-git checkout -b branch_name
+> is used to list the version history for the current branch.
+
+### 8.
+
 ```
 
-### 8. 
-```
-git checkout branch_name
+git log --follow <file>
 ```
 
-### 9. 
+> lists version history for a file, including the renaming of files also.
+
+### 9.
+
 ```
+
+git diff
+```
+
+> shows the file differences which are not yet staged.
+
+### 10.
+
+```
+
+git diff --staged
+```
+
+> shows the differences between the files in the staging area and the latest version present.
+
+### 11.
+
+```
+
+git show <commit>
+```
+
+> shows the metadata and content changes of the specified commit.
+
+### 12.
+
+```
+
+git tag <commitID>
+```
+
+> is used to give tags to the specified commit.
+
+### 13.
+
+```
+
 git branch
 ```
 
-### 10. 
-```
-git branch -d branch_name
+> lists all the local branches in the current repository.
+
+### 14.
+
 ```
 
-### 11. 
-```
-git merge branch_name
+git branch -a
 ```
 
-### 12. 
-```
-git remote add origin
+> lists all the branches (local and remote).
+
+### 15.
+
 ```
 
-### 13. 
+git branch <branchname>
 ```
+
+> creates a new branch.
+
+### 16.
+
+```
+
+git branch -d <branchname>
+```
+
+> deletes the feature branch.
+
+### 17.
+
+```
+
+git push origin <branchname>
+```
+
+> pushes the branch to your remote repository.
+
+### 18.
+
+```
+
+git checkout -b <branchname>
+```
+
+> creates a new branch and also switches to it.
+
+### 19.
+
+```
+
+git checkout -b <branchname> origin/<branchname>
+```
+
+> pulls the branch from the remote repository and also switches to it.
+
+### 20.
+
+```
+
+git checkout <branchname>
+```
+
+> switches from one branch to another.
+
+### 21.
+
+```
+
+git checkout <commitID>
+```
+
+> restores the repository to a previous commit.
+
+### 22.
+
+```
+
+git checkout -- <filename>
+```
+
+> discards the file changes.
+
+### 23.
+
+```
+
+git merge <branchname>
+```
+
+> merges the specified branch’s history into the current branch.
+
+### 24.
+
+```
+
+git merge <sourcebranch> <targetbranch>
+```
+
+> merges the source branch into the target branch.
+
+### 25.
+
+```
+
+git stash
+```
+
+> temporarily stores all the modified tracked files.
+
+### 26.
+
+```
+
+git stash pop
+```
+
+> restores the most recently stashed files.
+
+### 27.
+
+```
+
+git remote add origin <server>
+```
+
+> is used to connect your local repository to the remote server.
+
+### 28.
+
+```
+
 git remote -v
 ```
 
-### 14. `git remote rm origin`
+> lets you view the remote URL next to your local repository’s name.
 
-### 15. `git remote set-url origin`
+### 29.
 
-### 16. `git clone`
+```
 
-### 17. `git reset --hard`
+git push origin <branchname>
+```
 
-> is used to reset the local repository to the state of the remote repository. This is useful when you have made changes to the local repository that you want to discard.
+> sends the branch commits to your remote repository.
 
-### 18. `git remote update origin --prune`
+### 30.
 
-> deletes all the remote-tracking references that no longer exist on the remote. This is useful when you have deleted a branch on the remote and want to remove the corresponding reference locally.
+```
 
-### 19. `git reset --hard origin/master`
+git push -u origin <branchname>
+```
 
-> this command will reset your local branch to match the remote branch. This is useful when you have made changes to the local repository that you want to discard.
+> pushes the changes in your local repository up to the remote repository you specified as the origin.
 
-### 20. `git reset --hard HEAD~1`
+### 31.
 
-> this command will reset your local branch to the previous commit. This is useful when you have made changes to the local repository that you want to discard.
+```
+
+git push
+```
+
+> sends the branch commits to your remote repository.
+
+### 32.
+
+```
+
+git push origin --delete <branchname>
+```
+
+> deletes a branch on your remote repository.
+
+### 33.
+
+```
+
+git pull
+```
+
+> Fetches and merges changes on the remote server to your working directory.
+
+### 34.
+
+```
+
+git pull origin <branchname>
+```
+
+> fetches and merges changes on the remote server to your working directory.
+
+### 35.
+
+```
+
+git rebase <branchname>
+```
+
+> updates your current HEAD branch with the latest changes from the specified branch.
+
+### 36.
+
+```
+
+git rebase --continue
+```
+
+> continues rebase after you have resolved merge conflicts.
+
+### 37.
+
+```
+
+git rebase --abort
+```
+
+> aborts rebase and resets the HEAD to the original branch.
+
+### 38.
+
+```
+
+git cherry-pick <commitID>
+```
+
+> applies the changes introduced by some existing commits.
+
+### 39.
+
+```
+
+git revert <commitID>
+```
+
+> reverts the changes introduced by some existing commits.
+
+### 40.
+
+```
+
+git reset --hard <commitID>
+```
+
+> discards all history and goes back to the specified commit.
+
+### 41.
+
+```
+
+git reset --soft <commitID>
+```
+
+> discards all history and goes back to the specified commit.
+
+### 42.
+
+```
+
+git reset --hard HEAD~1
+```
+
+> discards all history and goes back to the previous commit.
+
+### 43.
+
+```
+git reflog
+```
+
+> shows a log of all commits ever made to the current branch.
+
+### 44.
+
+```
+
+git gc
+```
+
+> cleans up unnecessary files and optimize the local repository.
+
+### 45.
+
+```
+
+git fsck
+```
+
+> checks the connectivity and validity of the objects in the database.
+
+### 46.
+
+```
+
+git fsck --full
+```
+
+> checks the connectivity and validity of the objects in the database and also verifies that all objects are reachable from at least one ref.
+
+### 47.
+
+```
+
+git fsck --unreachable
+```
+
+> checks the connectivity and validity of the objects in the database and also verifies that all objects are reachable from at least one ref.
 
 ## NODE VERSION MANAGER
 
 ###1 `node -v > .nvmrc`
 
-> this command will create a .nvmrc file with the current version of node installed on your machine.
+> will create a .nvmrc file with the current version of node installed on your machine.
 > ###2 `nvm use`
-> this command will use the version of node specified in the .nvmrc file.
+> will use the version of node specified in the .nvmrc file.
 > ###3 `nvm install 16`
-> this command will install the version of node specified ie 16
+> will install the version of node specified ie 16
 > ###4 `nvm alias default 16`
-> this command will set the default version of node to 16
+> will set the default version of node to 16
 
-# 1. `git add` .
+## mysql
 
-# 2. `git commit -m "message`
+> You can update root password anytime from MySQL shell.
 
-# 3.`git push origin master`
+You can update root password anytime from MySQL shell.
+$ mysql -uroot -p
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewStrongP@ssw0d!';
+mysql> FLUSH PRIVILEGES;
+mysql> exit
 
-# 4. `git pull origin master`
+> You can login to MySQL shell command line arguments.
+> mysql -u root -p
 
-# 5.`git status`
+```
+> VIEW DATABASES;
+```
 
-# 6. `git log`
+```
+> SHOW DATABASES;
+```
 
-# 7. `git checkout -b branch_name`
+```
+> CREATE DATABASE <database_name>;
+```
 
-# 8. `git checkout branch_name`
+```
+> USE <database_name>;
+```
 
-# 9. `git branch`
+```
+> SHOW TABLES;
+```
 
-# 10. `git branch -d branch_name`
+```
+> CREATE TABLE <table_name> ( <column_name> <data_type> );
+```
 
-# 11. `git merge branch_name`
+```
 
-# 12. `git remote add origin`
-
-# 13. `git remote -v`
-
-# 14. `git remote rm origin`
-
-# 15. `git remote set-url origin`
-
-# 16. `git clone`
-
-# 17. `git reset --hard`
-
-is used to reset the local repository to the state of the remote repository. This is useful when you have made changes to the local repository that you want to discard.
-
-# 18. git remote update origin --prune
-
-deletes all the remote-tracking references that no longer exist on the remote. This is useful when you have deleted a branch on the remote and want to remove the corresponding reference locally.
-
-# 19. `git reset --hard origin/master`
-
-this command will reset your local branch to match the remote branch. This is useful when you have made changes to the local repository that you want to discard.
-
-# 20. `git reset --hard HEAD~1`
-
-this command will reset your local branch to the previous commit. This is useful when you have made changes to the local repository that you want to discard.
-
-# 21. `git reset --hard HEAD~2`
-
-this command will reset your local branch to the previous two commits. This is useful when you have made changes to the local repository that you want to discard.
-
-# 22. `git reset --hard HEAD~3`
-
-this command will reset your local branch to the previous three commits. This is useful when you have made changes to the local repository that you want to discard.
-
-# 23. `git reset --hard HEAD~4`
-
-this command will reset your local branch to the previous four commits. This is useful when you have made changes to the local repository that you want to discard.
-
-# 24. `git reset --hard HEAD~5`
-
-this command will reset your local branch to the previous five commits. This is useful when you have made changes to the local repository that you want to discard.
-
-# 25. `git init`
-
-this command will initialize a local git repository. This is useful when you want to start tracking a local project with git.
-
-# 26. `git worktree add -b branch_name`
-
-this command will create a new branch and switch to it. This is useful when you want to create a new branch and switch to it.
-
-# 27. `git diff`
-
-. This command will show you the differences between the files in your working directory and the files in your staging area. This is useful when you want to see what changes you have made but have not yet committed.
-
-# 28. `git diff --staged`
-
-this command will show the differences between the index and the last commit. This is useful when you want to see what changes you have made.
-
-# 29. `git diff branch_name`
-
-this command will show the differences between the working directory and the specified branch. This is useful when you want to see what changes you have made.
-
-# 30. `git diff branch_name --staged`
-
-this command will show the differences between the index and the specified branch. This is useful when you want to see what changes you have made.
 
 # NODE VERSION MANAGER
 
 #1 `node -v > .nvmrc`
-this command will create a .nvmrc file with the current version of node installed on your machine.
+ will create a .nvmrc file with the current version of node installed on your machine.
 
 #2 `nvm use`
-this command will use the version of node specified in the .nvmrc file.
+ will use the version of node specified in the .nvmrc file.
 
 #3 `nvm install`
-this command will install the version of node specified in the .nvmrc file.
+ will install the version of node specified in the .nvmrc file.
 
 #4 `nvm install --lts`
-this command will install the latest version of node.
+ will install the latest version of node.
 
 #5 `nvm install --lts --reinstall-packages-from=system`
-this command will install the latest version of node and reinstall all the packages from the system.
+ will install the latest version of node and reinstall all the packages from the system.
 
-# mysql
-You can update root password anytime from MySQL shell.
-$ mysql -uroot -p
-mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewStrongP@ssw0d!';
 
-login with root user 
-mysql -u root -p
 
 ###General
 lsof -i :5001.  -kill proccess on a port
+sudo kill -9 1234 -kill proccess by id
+sudo killall node -kill all node proccesses
+rm -rf .git -remove git from a project
 
 
-#github credintal helper cmds
+### -oh-my-zsh setup
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sudo apt-get install fonts-powerline
+sudo apt-get install zsh-syntax-highlighting
+sudo apt-get install zsh-autosuggestions
+sudo apt-get install zsh-history-substring-search
+sudo apt-get install zsh-completions
+sudo apt-get install zsh-lovers
+sudo apt-get install zsh-vi-mode
+sudo apt-get install zsh-theme-powerlevel10k
+
+
+
+
+###Credintial Helper- really handy for ec2 instances
   git status
   gh auth login
   sudo snap install gh
@@ -388,22 +681,44 @@ lsof -i :5001.  -kill proccess on a port
   git config --global user.email
   git config --global myemail@gmail.com
   git config --global user.email myemail@gmail.com
-  
 
-steps to set up ssl
-assuming your ec2 is up and responding to http on /
-first create a target group this should connect to the ec/  
-define a security group that will accept traffic from the alb security group
-place your ec2 server in a security group that only allows traffic from you load balancer security group
-create a target group this will have the ec2 server that your server is on
-create an application load balancer
-connect your load balancer to the target group
-health checks should be on http port 80 for my set up
-register a domain with route  53 this will be needed to get a ssl certificate
-i like to use the subdomain api for my backend.  example api.myawsomedomainname.com
-add aws tssl certificate to your application load balancer
-confirm that its target group is the one with the ec2 set up any health checks as needed
-point the domain at the alb
+### pm2 -- when you start your server with pm2 it will run in the background
+pm2 start server.js
+pm2 stop server.js
+pm2 restart server.js --watch
+pm2 logs
+pm2 monit
+pm2 delete server.js
+pm2 list
+pm2 startup
+pm2 save
 
 
+### aws
+sudo apt-get install awscli
+aws configure
+aws ec2 describe-instances
+aws ec2 describe-instances --query 'Reservations[*].Instances[*].[InstanceId,PublicIpAddress,State.Name,Tags[?Key==`Name`].Value[]]' --output text
 
+
+### aws SSl Load balancer Setup
+Create an EC2 instance.
+Add git to the EC2 instance.
+Clone the backend repo.
+Install node and npm.
+Install pm2.
+Set up EC2 to respond to HTTP on "/".
+Create a target group that will connect to the EC2.
+Define a security group that accepts traffic from the ALB security group.
+Place the EC2 server in a security group that only allows traffic from the load balancer security group.
+Create an application load balancer.
+Connect the load balancer to the target group.
+Set up health checks on HTTP port 80.
+Register a domain with Route 53 and use a subdomain (e.g. api.myawsomedomainname.com) for your backend.
+Add an AWS SSL certificate to your application load balancer.
+Confirm that the target group is the one with the EC2 and set up any necessary health checks.
+Point the domain to the ALB.
+
+
+
+```
