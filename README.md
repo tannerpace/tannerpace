@@ -27,7 +27,7 @@ WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/Ma
 
 ## 🚀 About Me :
 
-- I believe The whole is greater than the sum of the parts..
+- I believe the whole is greater than the sum of the parts..
 - I am a Full Stack Developer with a passion for learning and creating.
 - I am a lifelong learner and I am always looking for new opportunities to learn and grow.
 - I am a problem solver and I love to find creative solutions to complex problems.
@@ -151,9 +151,9 @@ WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/Ma
 <!-- [1]:
 [2]: https://github.com/tannerpace -->
 
-https://www.linkedin.com/in/tannerbleakley
 
-- 💬 Here is some information I find helpful
+  <h1 align="center">
+💬 Here is some information I find helpful
   
 <div align="left">
 
