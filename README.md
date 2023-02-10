@@ -28,7 +28,7 @@ WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/Ma
 ## 🚀 About Me :
 
 - I believe the whole is greater than the sum of the parts.
-- I am a Full Stack Developer with a passion for learning and creating.
+- I am a full stack developer with a passion for learning and creating.
 - I am a lifelong learner and I am always looking for new opportunities to learn and grow.
 - I am a problem solver and I love to find creative solutions to complex problems.
 - I am a team player and I love to collaborate with others to create amazing things.
