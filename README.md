@@ -11,7 +11,7 @@ WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/Ma
 <!--   <img src="https://scontent-mia3-2.xx.fbcdn.net/v/t1.6435-1/98599521_10103543147615784_5627245428001996800_n.jpg?stp=c0.187.480.480a_dst-jpg_p480x480&_nc_cat=107&ccb=1-7&_nc_sid=7206a8&_nc_ohc=V41h5Cic2G0AX_RQGqg&_nc_ht=scontent-mia3-2.xx&oh=00_AfAXXJYeT3OOtDT_HjnJLuL8vICHmj47yRW_OpaRHtd15A&oe=638DDC46" title="Tanner Bleakley" alt="Tanner Bleakley" width="100" height="100"/>&nbsp; -->
 
 </h1>
-<h3 align="center">My name is Tanner Bleakley, I am a JavaScript Developer, Certified Cloud Practitioner, and a recent graduate of JRS Coding School's FullStack Javascript Development Program.</h3>
+<h3 align="center">My name is Tanner Bleakley, I am a JavaScript Developer, Certified Cloud Practitioner, and graduate of JRS Coding School's FullStack Javascript Development Program.</h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=contact@tannerpace@gmail.com&tf=cm">
@@ -178,15 +178,10 @@ mysql> FLUSH PRIVILEGES;
 mysql> exit
 
 > You can login to MySQL shell command line arguments.
-> mysql -u root -p
 
-```
-> VIEW DATABASES;
-```
-
-```
-> SHOW DATABASES;
-```
+   ```
+  mysql -u root -p
+  ```
 
 ```
 > CREATE DATABASE <database_name>;
@@ -226,32 +221,38 @@ rm -rf .git -remove git from a project
 ```
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+  
 ```
 sudo apt-get install fonts-powerline
 ```
+  
 ```
 sudo apt-get install zsh-syntax-highlighting
 ```
+  
 ```
 sudo apt-get install zsh-autosuggestions
 ```
+  
 ```
 sudo apt-get install zsh-history-substring-search
 ```
+  
 ```
 sudo apt-get install zsh-completions
 ```
+  
+```
 sudo apt-get install zsh-lovers
 ```
+  
 ```
 sudo apt-get install zsh-vi-mode
 ```
+  
 ```
 sudo apt-get install zsh-theme-powerlevel10k
 ```
-
-
-
 
 ###Credintial Helper- really handy for ec2 instances
 ```
@@ -318,382 +319,3 @@ Point the domain to the ALB.
 
 
 
-### 1.
-
-```
-git init
-```
-
-> is used to start a new repository.
-
-### 2.
-
-```
-git clone <repo>
-```
-
-> is used to obtain a repository from an existing URL.
-
-### 3.
-
-```
-
-git add <file>
-```
-
-> adds a file to the staging area.
-
-### 4.
-
-```
-
-git add .
-```
-
-> adds one or more to the staging area.
-
-### 5.
-
-```
-
-git commit -m "Commit message"
-```
-
-> records or snapshots the file permanently in the version history.
-
-### 6.
-
-```
-
-git status
-```
-
-> lists all new or modified files to be committed.
-
-### 7.
-
-```
-
-git log
-```
-
-> is used to list the version history for the current branch.
-
-### 8.
-
-```
-
-git log --follow <file>
-```
-
-> lists version history for a file, including the renaming of files also.
-
-### 9.
-
-```
-
-git diff
-```
-
-> shows the file differences which are not yet staged.
-
-### 10.
-
-```
-
-git diff --staged
-```
-
-> shows the differences between the files in the staging area and the latest version present.
-
-### 11.
-
-```
-
-git show <commit>
-```
-
-> shows the metadata and content changes of the specified commit.
-
-### 12.
-
-```
-
-git tag <commitID>
-```
-
-> is used to give tags to the specified commit.
-
-### 13.
-
-```
-
-git branch
-```
-
-> lists all the local branches in the current repository.
-
-### 14.
-
-```
-
-git branch -a
-```
-
-> lists all the branches (local and remote).
-
-### 15.
-
-```
-
-git branch <branchname>
-```
-
-> creates a new branch.
-
-### 16.
-
-```
-
-git branch -d <branchname>
-```
-
-> deletes the feature branch.
-
-### 17.
-
-```
-
-git push origin <branchname>
-```
-
-> pushes the branch to your remote repository.
-
-### 18.
-
-```
-
-git checkout -b <branchname>
-```
-
-> creates a new branch and also switches to it.
-
-### 19.
-
-```
-
-git checkout -b <branchname> origin/<branchname>
-```
-
-> pulls the branch from the remote repository and also switches to it.
-
-### 20.
-
-```
-
-git checkout <branchname>
-```
-
-> switches from one branch to another.
-
-### 21.
-
-```
-
-git checkout <commitID>
-```
-
-> restores the repository to a previous commit.
-
-### 22.
-
-```
-
-git checkout -- <filename>
-```
-
-> discards the file changes.
-
-### 23.
-
-```
-
-git merge <branchname>
-```
-
-> merges the specified branch’s history into the current branch.
-
-### 24.
-
-```
-
-git merge <sourcebranch> <targetbranch>
-```
-
-> merges the source branch into the target branch.
-
-### 25.
-
-```
-
-git stash
-```
-
-> temporarily stores all the modified tracked files.
-
-### 26.
-
-```
-
-git stash pop
-```
-
-> restores the most recently stashed files.
-
-### 27.
-
-```
-
-git remote add origin <server>
-```
-
-> is used to connect your local repository to the remote server.
-
-### 28.
-
-```
-
-git remote -v
-```
-
-> lets you view the remote URL next to your local repository’s name.
-
-### 29.
-
-```
-
-git push origin <branchname>
-```
-
-> sends the branch commits to your remote repository.
-
-### 30.
-
-```
-
-git push -u origin <branchname>
-```
-
-> pushes the changes in your local repository up to the remote repository you specified as the origin.
-
-### 31.
-
-```
-
-git push
-```
-
-> sends the branch commits to your remote repository.
-
-### 32.
-
-```
-
-git push origin --delete <branchname>
-```
-
-> deletes a branch on your remote repository.
-
-### 33.
-
-```
-
-git pull
-```
-
-> Fetches and merges changes on the remote server to your working directory.
-
-### 34.
-
-```
-
-git pull origin <branchname>
-```
-
-> fetches and merges changes on the remote server to your working directory.
-
-### 35.
-
-```
-
-git rebase <branchname>
-```
-
-> updates your current HEAD branch with the latest changes from the specified branch.
-
-### 36.
-
-```
-
-git rebase --continue
-```
-
-> continues rebase after you have resolved merge conflicts.
-
-### 37.
-
-```
-
-git rebase --abort
-```
-
-> aborts rebase and resets the HEAD to the original branch.
-
-### 38.
-
-```
-
-git cherry-pick <commitID>
-```
-
-> applies the changes introduced by some existing commits.
-
-### 39.
-
-```
-
-git revert <commitID>
-```
-
-> reverts the changes introduced by some existing commits.
-
-### 40.
-
-```
-
-git reset --hard <commitID>
-```
-
-> discards all history and goes back to the specified commit.
-
-### 41.
-
-```
-
-git reset --soft <commitID>
-```
-
-> discards all history and goes back to the specified commit.
-
-### 42.
-
-```
-
-git reset --hard HEAD~1
-```
-
-> discards all history and goes back to the previous commit.
-
-
-
-```
