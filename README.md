@@ -1,17 +1,17 @@
 ###
 
-<h1 align="center">
-  ✨ Hi there 👋  ✨
 
-WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-</h1>
+
+
+
 
 <h1 align="center">
 <!--   <img src="https://scontent-mia3-2.xx.fbcdn.net/v/t1.6435-1/98599521_10103543147615784_5627245428001996800_n.jpg?stp=c0.187.480.480a_dst-jpg_p480x480&_nc_cat=107&ccb=1-7&_nc_sid=7206a8&_nc_ohc=V41h5Cic2G0AX_RQGqg&_nc_ht=scontent-mia3-2.xx&oh=00_AfAXXJYeT3OOtDT_HjnJLuL8vICHmj47yRW_OpaRHtd15A&oe=638DDC46" title="Tanner Bleakley" alt="Tanner Bleakley" width="100" height="100"/>&nbsp; -->
 
 </h1>
-<h3 align="center">My name is Tanner Bleakley, I am a JavaScript Developer, Certified Cloud Practitioner, and graduate of JRS Coding School's FullStack Javascript Development Program.</h3>
+<h3 align="center">Hello, Welcome to my github. My name is
+Tanner Bleakley, Im a JavaScript Developer, Certified Cloud Practitioner, and graduate of JRS Coding School's FullStack Development Program.</h3>
 
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=contact@tannerpace@gmail.com&tf=cm">
@@ -28,7 +28,6 @@ WELCOME To My GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/Ma
 ## 🚀 About Me :
 
 - I believe the whole is greater than the sum of the parts.
-- I am a full stack developer with a passion for learning and creating.
 - I am a lifelong learner and I am always looking for new opportunities to learn and grow.
 - I am a problem solver and I love to find creative solutions to complex problems.
 - I am a team player and I love to collaborate with others to create amazing things.
