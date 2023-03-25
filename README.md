@@ -302,7 +302,7 @@ aws ec2 describe-instances --query 'Reservations[*].Instances[*].[InstanceId,Pub
    <h1 align="center">
 💬 Here is some information I find helpful
      <div align="left">
-### aws SSl Load balancer Setup
+AWS SSl Load balancer Setup
 Create an EC2 instance.
 Add git to the EC2 instance.
 Clone the backend repo.
