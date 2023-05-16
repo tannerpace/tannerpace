@@ -1,4 +1,4 @@
-###
+
 
 
 
@@ -222,25 +222,41 @@ aws ec2 describe-instances --query 'Reservations[*].Instances[*].[InstanceId,Pub
 
  -->
   
-   <h1 align="center">
-💬 Here is some information I find helpful
-     <div align="left">
-AWS SSl Load balancer Setup
+  
+💬 Here is some information I find helpful to remember when setting up a load balancer 
+     
+##    AWS SSl Load balancer Setup
 Create an EC2 instance.
+  
 Add git to the EC2 instance.
 Clone the backend repo.
+  
 Install node and npm.
+  
 Install pm2.
+  
 Set up EC2 to respond to HTTP on "/".
+  
 Create a target group that will connect to the EC2.
-Define a security group that accepts traffic from the ALB security group.
+  
+Define a security group should accept traffic from the ALB security group.
+  
+
+  
 Place the EC2 server in a security group that only allows traffic from the load balancer security group.
+  
 Create an application load balancer.
+  
 Connect the load balancer to the target group.
+  
 Set up health checks on HTTP port 80.
+  
 Register a domain with Route 53 and use a subdomain (e.g. api.myawsomedomainname.com) for your backend.
+  
 Add an AWS SSL certificate to your application load balancer.
-Confirm that the target group is the one with the EC2 and set up any necessary health checks.
+  
+Confirm that the target group is the one with the EC2 anSd set up any necessary health checks.
+  
 Point the domain to the ALB.
 
 
