@@ -34,12 +34,10 @@ Tanner Bleakley, Im a JavaScript Developer, Certified Cloud Practitioner, and gr
 
 ## &#x1f4c8; GitHub Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-<!-- TOP LANGUAGES -->
 
-[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=tannerpace&theme=chartreuse-dark)](https://github.com/tannerpace)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tannerpace&theme=highcontrast&ring=DD2727&fire=D0DD20&currStreakLabel=DDDDDD)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannerpace&layout=&theme=vision-friendly-dark)](https://github.com/tannerpace/github-readme-stats)
+
 
 <div align="center">
 
