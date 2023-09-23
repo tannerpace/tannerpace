@@ -25,6 +25,10 @@
 <a href="https://www.linkedin.com/in/tannerbleakley/">
   <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="https://replit.com/@tannerpace">
+  <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
+</a>
+
 
 ## &#x1f4c8; My GitHub Stats:
 
