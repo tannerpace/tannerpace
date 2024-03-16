@@ -2,7 +2,7 @@
   <h1>Tanner Bleakley</h1>
 </h1>
 
-<h3 align="center">Welcome to my GitHub profile! I'm Tanner Bleakley, a JavaScript Developer, a Certified Cloud Practitioner, and a graduate of the JRS Coding School's Full-Stack Development Program.</h3>
+<h3 align="center">I'm a Developer, a Certified Cloud Practitioner, and a graduate of the JRS Coding School's Full-Stack Development Program.</h3>
 
 <p align="center">
   <a href="mailto:contact@tannerpace@gmail.com">
