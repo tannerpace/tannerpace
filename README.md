@@ -88,3 +88,29 @@
 
 12. Point the domain to the ALB.
 
+
+
+## ZSHRC Command:
+
+Here is a handy zshrc command to add for managing server processes:
+
+```zsh
+# Function to kill a process running on a specified port using SIGTERM
+function killserver {
+  local PORT=$1
+  local PID=$(lsof -t -iTCP:$PORT -sTCP:LISTEN)
+
+  if [[ -z $PID ]]; then
+    echo "No process is listening on port $PORT."
+  else
+    echo "Killing process $PID on port $PORT with SIGTERM."
+    kill -TERM $PID
+    if [[ $? -eq 0 ]]; then
+      echo "Process on port $PORT has been terminated gracefully."
+    else
+      echo "Failed to terminate process $PID with SIGTERM."
+    fi
+  fi
+}
+```
+
